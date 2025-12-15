@@ -18,7 +18,7 @@ const guitarCollection = [
     neck: "Érable",
     frets: 24,
     vibrato : "Floyd Rose",
-    picture: "../assets/jem.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/jem.png",
     type: "electric"
   },
 
@@ -36,7 +36,7 @@ const guitarCollection = [
     neck: "Érable",
     frets: 22,
     vibrato : "Sans",
-    picture: "../assets/lespaul.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/lespaul.png",
     type: "electric"
   },
 
@@ -54,7 +54,7 @@ const guitarCollection = [
     neck: "Érable",
     frets: 22,
     vibrato : "Tremolo",
-    picture: "../assets/strato.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/strato.png",
     type: "electric"
   },
 
@@ -72,7 +72,7 @@ const guitarCollection = [
     neck: "Acajou",
     frets: 22,
     vibrato : "Tremolo Maestro Vibrola",
-    picture: "../assets/sg.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/sg.png",
     type: "electric"
   },
 
@@ -90,7 +90,7 @@ const guitarCollection = [
     neck: "Érable",
     frets: 22,
     vibrato : "Tremolo Maestro Vibrola",
-    picture: "../assets/telecaster.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/telecaster.png",
     type: "electric"
   },
 
@@ -107,7 +107,7 @@ const guitarCollection = [
     body: "Acajou",
     neck: "Érable",
     frets: 22,
-    picture: "../assets/archtop.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/archtop.png",
     type: "electric"
   },
 
@@ -125,7 +125,7 @@ const guitarCollection = [
     neck: "Acajou",
     frets: 22,
     vibrato : "Sans",
-    picture: "../assets/flyingv.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/flyingv.png",
     type: "electric"
   },
 
@@ -143,7 +143,7 @@ const guitarCollection = [
     neck: "Acajou",
     frets: 20,
     vibrato : "Sans",
-    picture: "../assets/12str.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/12str.png",
     type: "acoustic"
   },
 
@@ -161,7 +161,7 @@ const guitarCollection = [
     neck: "Épicéa",
     frets: 20,
     vibrato : "Sans",
-    picture: "../assets/acoustic.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/acoustic.png",
     type: "acoustic"
   },
   
@@ -179,7 +179,7 @@ const guitarCollection = [
     neck: "Acajou",
     frets: 18,
     vibrato : "Sans",
-    picture: "../assets/classic.png",
+    picture: "https://m-stephan.github.io/2.PROJECTS-1.TheCollection/assets/classic.png",
     type: "acoustic"
   }
 ];
