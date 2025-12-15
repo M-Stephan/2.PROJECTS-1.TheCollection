@@ -1,6 +1,6 @@
 /**
  * @const {object} guitarCollection
- * @description - Contient les 10 objects et leurs propriétés.
+ * @description - Content 10 guitars with their specifications
  * 
  * */
 const guitarCollection = [
@@ -21,6 +21,7 @@ const guitarCollection = [
     picture: "../assets/jem.png",
     type: "electric"
   },
+
   // 2
   {
     name: "Les Paul Custom Alpine White Gloss",
@@ -38,6 +39,7 @@ const guitarCollection = [
     picture: "../assets/lespaul.png",
     type: "electric"
   },
+
   // 3
   {
     name: "70th Anniversary Stratocaster RW",
@@ -55,6 +57,7 @@ const guitarCollection = [
     picture: "../assets/strato.png",
     type: "electric"
   },
+
   // 4
   {
     name: "SG Angus Young Signature Model",
@@ -72,6 +75,7 @@ const guitarCollection = [
     picture: "../assets/sg.png",
     type: "electric"
   },
+
   // 5
   {
     name: "Player II Telecaster RW",
@@ -89,6 +93,7 @@ const guitarCollection = [
     picture: "../assets/telecaster.png",
     type: "electric"
   },
+
   // 6
   {
     name: "Guitars Archtop White Larry Carlton",
@@ -105,6 +110,7 @@ const guitarCollection = [
     picture: "../assets/archtop.png",
     type: "electric"
   },
+
   // 7
   {
     name: "Flying V Ruby Red Metallic",
@@ -122,6 +128,7 @@ const guitarCollection = [
     picture: "../assets/flyingv.png",
     type: "electric"
   },
+
   // 8
   {
     name: "Artwood Vintage 12-String",
@@ -139,6 +146,7 @@ const guitarCollection = [
     picture: "../assets/12str.png",
     type: "acoustic"
   },
+
   // 9
   {
     name: "000-28EC Eric Clapton Signature",
@@ -156,6 +164,7 @@ const guitarCollection = [
     picture: "../assets/acoustic.png",
     type: "acoustic"
   },
+  
   // 10
   {
     name: "CN-60S Natural WN",

@@ -1,31 +1,37 @@
 # 2.PROJECTS/1.The Collection
 
-## Description
-- It's a webpage representing a guitar collection with their information and specifications displayed in card format.
+## Author
+Stephan M.
 
-## Structure
+## Technologies
+- HTML
+- CSS
+- JavaScript (DOM)
+
+## Description
+This webpage showcases a guitar collection.  
+Each guitar is displayed in a card layout with its information and specifications.
+
+This is my first website project using JavaScript.
+
+## Demo
+- View the website and explore my guitar collection
+- Filter guitars by category (acoustic or electric)
+- Remove guitars from the collection
+
+## Project Structure
 ```
 racine/
     ├─ README.md
+    ├─ index.html
+    |
     ├─ assets/
-    |   ├─ 12str.png
-    |   ├─ acoustic.png
-    |   ├─ archtop.png
-    |   ├─ bg.png
-    |   ├─ classic.png
-    |   ├─ flyingv.png
-    |   ├─ jem.png
-    |   ├─ lespaul.png
-    |   ├─ sg.png
-    |   ├─ strato.png
-    |   └─ telecaster.png
+    |   └─ (All images for guitar collection)
+    |
     ├─ html/
-    |   ├─ index.html
     |   └─ style.css
+    |
     └─ scripts/
-        ├─ objects.js
+        ├─ objects.js -- (Guitar ocject list)
         └─ script.js
 ```
-
-## Information
-- **Please do not modify the repository.**
