@@ -15,6 +15,7 @@ Each guitar is displayed in a card layout with its information and specification
 This is my first website project using JavaScript.
 
 ## Demo
+- [Click here to view the website](https://m-stephan.github.io/2.PROJECTS-1.TheCollection/)
 - View the website and explore my guitar collection
 - Filter guitars by category (acoustic or electric)
 - Remove guitars from the collection
